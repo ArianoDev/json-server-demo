@@ -1,14 +1,50 @@
-{
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
-}
+[
+    {
+        "id": 1,
+        "title": "Artwork 1",
+        "description": "Description of Artwork 1",
+        "creator": "Artist 1",
+        "year_of_Creation": 2023,
+        "category": "Category 1",
+        "price": 100.00,
+        "token_id": "ABCDEFG123456",
+        "status": "For Sale",
+        "image": "image_url_1"
+    },
+    {
+        "id": 2,
+        "title": "Artwork 2",
+        "description": "Description of Artwork 2",
+        "creator": "Artist 2",
+        "year_of_Creation": 2023,
+        "category": "Category 2",
+        "price": 150.00,
+        "token_ID": "HIJKLMN789012",
+        "status": "Sold",
+        "image": "image_url_2"
+    },
+    {
+        "id": 3,
+        "title": "Artwork 3",
+        "description": "Description of Artwork 3",
+        "creator": "Artist 2",
+        "year_of_Creation": 2024,
+        "category": "Category 2",
+        "price": 230.00,
+        "token_ID": "HIJKLMN789023",
+        "status": "Sold",
+        "image": "image_url_2"
+    },
+    {
+        "id": 4,
+        "title": "Artwork modern",
+        "description": "Description of Artwork modern",
+        "creator": "Artist 3",
+        "year_of_Creation": 2023,
+        "category": "Category 3",
+        "price": 150.00,
+        "token_ID": "HIJKLMN789422",
+        "status": "For Sale",
+        "image": "image_url_2"
+    }
+]
