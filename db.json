@@ -10,7 +10,8 @@
             "price": 100.00,
             "token_id": "ABCDEFG123456",
             "status": "For Sale",
-            "image": "image_url_1"
+            "image": "https://via.placeholder.com/600/92c952",
+            "thumbnail": "https://via.placeholder.com/150/92c952"
         },
         {
             "id": 2,
@@ -22,7 +23,8 @@
             "price": 150.00,
             "token_ID": "HIJKLMN789012",
             "status": "Sold",
-            "image": "image_url_2"
+            "image": "https://via.placeholder.com/600/771796",
+            "thumbnail": "https://via.placeholder.com/150/771796"
         },
         {
             "id": 3,
@@ -34,7 +36,8 @@
             "price": 230.00,
             "token_ID": "HIJKLMN789023",
             "status": "Sold",
-            "image": "image_url_2"
+            "image": "https://via.placeholder.com/600/24f355",
+            "thumbnail": "https://via.placeholder.com/150/24f355"
         },
         {
             "id": 4,
@@ -46,7 +49,60 @@
             "price": 150.00,
             "token_ID": "HIJKLMN789422",
             "status": "For Sale",
-            "image": "image_url_2"
+            "image": "https://via.placeholder.com/600/d32776",
+            "thumbnail": "https://via.placeholder.com/150/d32776"
+        },
+        {
+            "id": 5,
+            "title": "Artwork modern",
+            "description": "Description of Artwork modern",
+            "creator": "Artist 3",
+            "year_of_Creation": 2023,
+            "category": "Category 3",
+            "price": 150.00,
+            "token_ID": "HIJKLMN789422",
+            "status": "For Sale",
+            "image": "https://via.placeholder.com/600/f66b97",
+            "thumbnail": "https://via.placeholder.com/150/f66b97"
+        },
+        {
+            "id": 6,
+            "title": "Artwork modern",
+            "description": "Description of Artwork modern",
+            "creator": "Artist 3",
+            "year_of_Creation": 2023,
+            "category": "Category 3",
+            "price": 150.00,
+            "token_ID": "HIJKLMN789422",
+            "status": "For Sale",
+            "image": "https://via.placeholder.com/600/d32776",
+            "thumbnail": "https://via.placeholder.com/150/d32776"
+        },
+        {
+            "id": 7,
+            "title": "Artwork modern",
+            "description": "Description of Artwork modern",
+            "creator": "Artist 3",
+            "year_of_Creation": 2023,
+            "category": "Category 3",
+            "price": 150.00,
+            "token_ID": "HIJKLMN789422",
+            "status": "For Sale",
+            "image": "https://via.placeholder.com/600/d32776",
+            "thumbnail": "https://via.placeholder.com/150/d32776"
+        },
+        {
+            "id": 8,
+            "title": "Artwork modern",
+            "description": "Description of Artwork modern",
+            "creator": "Artist 3",
+            "year_of_Creation": 2023,
+            "category": "Category 3",
+            "price": 150.00,
+            "token_ID": "HIJKLMN789422",
+            "status": "For Sale",
+            "image": "https://via.placeholder.com/600/d32776",
+            "thumbnail": "https://via.placeholder.com/150/d32776"
         }
     ],
     "posts": [
