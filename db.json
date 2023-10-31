@@ -13,7 +13,7 @@
             "token_id": "ABCDEFG123456",
             "status": "For Sale",
             "image": "https://placehold.co/300x400",
-            "cover": "https://placehold.co/800x600"
+            "cover": "https://placehold.co/800x600/png"
         },
         {
             "id": 2,
@@ -28,7 +28,7 @@
             "token_ID": "HIJKLMN789012",
             "status": "Sold",
             "image": "https://placehold.co/300x400",
-            "cover": "https://placehold.co/800x600"
+            "cover": "https://placehold.co/800x600/png"
         },
         {
             "id": 3,
@@ -43,7 +43,7 @@
             "token_ID": "HIJKLMN789023",
             "status": "Sold",
             "image": "https://placehold.co/300x400",
-            "cover": "https://placehold.co/800x600"
+            "cover": "https://placehold.co/800x600/png"
         },
         {
             "id": 4,
@@ -58,7 +58,7 @@
             "token_ID": "HIJKLMN789422",
             "status": "For Sale",
             "image": "https://placehold.co/300x400",
-            "cover": "https://placehold.co/800x600"
+            "cover": "https://placehold.co/800x600/png"
         },
         {
             "id": 5,
@@ -73,7 +73,7 @@
             "token_ID": "HIJKLMN789422",
             "status": "For Sale",
             "image": "https://placehold.co/300x400",
-            "cover": "https://placehold.co/800x600"
+            "cover": "https://placehold.co/800x600/png"
         },
         {
             "id": 6,
@@ -88,7 +88,7 @@
             "token_ID": "HIJKLMN789422",
             "status": "For Sale",
             "image": "https://placehold.co/300x400",
-            "cover": "https://placehold.co/800x600"
+            "cover": "https://placehold.co/800x600/png"
         },
         {
             "id": 7,
@@ -103,7 +103,7 @@
             "token_ID": "HIJKLMN789422",
             "status": "For Sale",
             "image": "https://placehold.co/300x400",
-            "cover": "https://placehold.co/800x600"
+            "cover": "https://placehold.co/800x600/png"
         },
         {
             "id": 8,
@@ -118,7 +118,7 @@
             "token_ID": "HIJKLMN789422",
             "status": "For Sale",
             "image": "https://placehold.co/300x400",
-            "cover": "https://placehold.co/800x600"
+            "cover": "https://placehold.co/800x600/png"
         }
     ],
     "posts": [
