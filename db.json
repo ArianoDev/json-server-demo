@@ -12,7 +12,7 @@
             "price": 100.00,
             "token_id": "ABCDEFG123456",
             "status": "For Sale",
-            "image": "https://placehold.co/400x300",
+            "image": "https://placehold.co/300x400",
             "cover": "https://placehold.co/800x600"
         },
         {
@@ -27,7 +27,7 @@
             "price": 150.00,
             "token_ID": "HIJKLMN789012",
             "status": "Sold",
-            "image": "https://placehold.co/400x300",
+            "image": "https://placehold.co/300x400",
             "cover": "https://placehold.co/800x600"
         },
         {
@@ -42,7 +42,7 @@
             "price": 230.00,
             "token_ID": "HIJKLMN789023",
             "status": "Sold",
-            "image": "https://placehold.co/400x300",
+            "image": "https://placehold.co/300x400",
             "cover": "https://placehold.co/800x600"
         },
         {
@@ -57,7 +57,7 @@
             "price": 150.00,
             "token_ID": "HIJKLMN789422",
             "status": "For Sale",
-            "image": "https://placehold.co/400x300",
+            "image": "https://placehold.co/300x400",
             "cover": "https://placehold.co/800x600"
         },
         {
@@ -72,7 +72,7 @@
             "price": 150.00,
             "token_ID": "HIJKLMN789422",
             "status": "For Sale",
-            "image": "https://placehold.co/400x300",
+            "image": "https://placehold.co/300x400",
             "cover": "https://placehold.co/800x600"
         },
         {
@@ -87,7 +87,7 @@
             "price": 150.00,
             "token_ID": "HIJKLMN789422",
             "status": "For Sale",
-            "image": "https://placehold.co/400x300",
+            "image": "https://placehold.co/300x400",
             "cover": "https://placehold.co/800x600"
         },
         {
@@ -102,7 +102,7 @@
             "price": 150.00,
             "token_ID": "HIJKLMN789422",
             "status": "For Sale",
-            "image": "https://placehold.co/400x300",
+            "image": "https://placehold.co/300x400",
             "cover": "https://placehold.co/800x600"
         },
         {
@@ -117,7 +117,7 @@
             "price": 150.00,
             "token_ID": "HIJKLMN789422",
             "status": "For Sale",
-            "image": "https://placehold.co/400x300",
+            "image": "https://placehold.co/300x400",
             "cover": "https://placehold.co/800x600"
         }
     ],
