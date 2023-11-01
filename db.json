@@ -131,16 +131,16 @@
     ],
     "authors": [
         { 
-            "id": "1"
-            "name": "Vera Bugatti", 
+            "id": "1",
+            "name": "Vera Bugatti" 
         },
         { 
-            "id": "2"
-            "name": "Amedeo Modigliani", 
+            "id": "2",
+            "name": "Amedeo Modigliani" 
         },
         { 
-            "id": "3"
-            "name": "Vincent Van Gohg", 
+            "id": "3",
+            "name": "Vincent Van Gohg" 
         }
       ]
 }
